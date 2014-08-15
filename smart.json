@@ -1,0 +1,8 @@
+{
+	"name": "slog",
+	"description": "Slog - A simple logger",
+	"homepage": "https://github.com/oorabona/slog/slog.git",
+	"author": "Olivier Orabona",
+	"version": "0.1.0",
+	"git": "https://github.com/oorabona/slog/slog.git"
+}
